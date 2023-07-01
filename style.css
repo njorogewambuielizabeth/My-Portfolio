@@ -368,6 +368,10 @@ p {
 	font-size: 4rem;
 	font-weight: 500;
 }
+#projects .project-info h1 a{
+	color: aqua;
+}
+
 #projects .project-info h2 {
 	font-size: 1.8rem;
 	font-weight: 500;
